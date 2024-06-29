@@ -4,12 +4,12 @@
     "C:\\FurnitureRenting\\FurnitureRentingAPI\\FurnitureRentingAPI\\FurnitureRentingAPI.csproj": {}
   },
   "projects": {
-    "C:\\FurnitureRenting\\FurnitureRentingAPI\\BussinessAccessLayer\\BussinessAccessLayer.csproj": {
+    "C:\\FurnitureRenting\\FurnitureRentingAPI\\BussinessAccessLayer\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\FurnitureRenting\\FurnitureRentingAPI\\BussinessAccessLayer\\BussinessAccessLayer.csproj",
-        "projectName": "BussinessAccessLayer",
-        "projectPath": "C:\\FurnitureRenting\\FurnitureRentingAPI\\BussinessAccessLayer\\BussinessAccessLayer.csproj",
+        "projectUniqueName": "C:\\FurnitureRenting\\FurnitureRentingAPI\\BussinessAccessLayer\\Infrastructure.csproj",
+        "projectName": "Infrastructure",
+        "projectPath": "C:\\FurnitureRenting\\FurnitureRentingAPI\\BussinessAccessLayer\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\ABC\\.nuget\\packages\\",
         "outputPath": "C:\\FurnitureRenting\\FurnitureRentingAPI\\BussinessAccessLayer\\obj\\",
         "projectStyle": "PackageReference",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\FurnitureRenting\\FurnitureRentingAPI\\DataAccessLayer\\DataAccessLayer.csproj": {
-                "projectPath": "C:\\FurnitureRenting\\FurnitureRentingAPI\\DataAccessLayer\\DataAccessLayer.csproj"
+              "C:\\FurnitureRenting\\FurnitureRentingAPI\\DataAccessLayer\\Domain.csproj": {
+                "projectPath": "C:\\FurnitureRenting\\FurnitureRentingAPI\\DataAccessLayer\\Domain.csproj"
               }
             }
           }
@@ -69,12 +69,12 @@
         }
       }
     },
-    "C:\\FurnitureRenting\\FurnitureRentingAPI\\DataAccessLayer\\DataAccessLayer.csproj": {
+    "C:\\FurnitureRenting\\FurnitureRentingAPI\\DataAccessLayer\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\FurnitureRenting\\FurnitureRentingAPI\\DataAccessLayer\\DataAccessLayer.csproj",
-        "projectName": "DataAccessLayer",
-        "projectPath": "C:\\FurnitureRenting\\FurnitureRentingAPI\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectUniqueName": "C:\\FurnitureRenting\\FurnitureRentingAPI\\DataAccessLayer\\Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "C:\\FurnitureRenting\\FurnitureRentingAPI\\DataAccessLayer\\Domain.csproj",
         "packagesPath": "C:\\Users\\ABC\\.nuget\\packages\\",
         "outputPath": "C:\\FurnitureRenting\\FurnitureRentingAPI\\DataAccessLayer\\obj\\",
         "projectStyle": "PackageReference",
@@ -177,11 +177,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\FurnitureRenting\\FurnitureRentingAPI\\BussinessAccessLayer\\BussinessAccessLayer.csproj": {
-                "projectPath": "C:\\FurnitureRenting\\FurnitureRentingAPI\\BussinessAccessLayer\\BussinessAccessLayer.csproj"
+              "C:\\FurnitureRenting\\FurnitureRentingAPI\\BussinessAccessLayer\\Infrastructure.csproj": {
+                "projectPath": "C:\\FurnitureRenting\\FurnitureRentingAPI\\BussinessAccessLayer\\Infrastructure.csproj"
               },
-              "C:\\FurnitureRenting\\FurnitureRentingAPI\\DataAccessLayer\\DataAccessLayer.csproj": {
-                "projectPath": "C:\\FurnitureRenting\\FurnitureRentingAPI\\DataAccessLayer\\DataAccessLayer.csproj"
+              "C:\\FurnitureRenting\\FurnitureRentingAPI\\DataAccessLayer\\Domain.csproj": {
+                "projectPath": "C:\\FurnitureRenting\\FurnitureRentingAPI\\DataAccessLayer\\Domain.csproj"
               }
             }
           }

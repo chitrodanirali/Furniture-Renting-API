@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jgBZ+4c69PRAawzyqFeHAyGSbbGqSyztk49Ftr3E3IoDlo1zMkLCP8+CW7vnk59NDxJxS2HKYAlwXR2dQ2gvVQ==",
+  "dgSpecHash": "+PpeQZH9Yz2T89Zt/PpyUVEJPqMaR+EecqtMEV98AOAXwL8wE2enI9+tYj3R/leZpOvRf7tu4a9vYKgvPRH8fQ==",
   "success": true,
-  "projectFilePath": "C:\\FurnitureRenting\\FurnitureRentingAPI\\BussinessAccessLayer\\BussinessAccessLayer.csproj",
+  "projectFilePath": "C:\\FurnitureRenting\\FurnitureRentingAPI\\BussinessAccessLayer\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ABC\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\ABC\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

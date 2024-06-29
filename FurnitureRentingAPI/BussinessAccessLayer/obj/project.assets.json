@@ -865,7 +865,7 @@
           }
         }
       },
-      "DataAccessLayer/1.0.0": {
+      "Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
@@ -876,10 +876,10 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "6.0.31"
         },
         "compile": {
-          "bin/placeholder/DataAccessLayer.dll": {}
+          "bin/placeholder/Domain.dll": {}
         },
         "runtime": {
-          "bin/placeholder/DataAccessLayer.dll": {}
+          "bin/placeholder/Domain.dll": {}
         }
       }
     }
@@ -2371,15 +2371,15 @@
         "version.txt"
       ]
     },
-    "DataAccessLayer/1.0.0": {
+    "Domain/1.0.0": {
       "type": "project",
-      "path": "../DataAccessLayer/DataAccessLayer.csproj",
-      "msbuildProject": "../DataAccessLayer/DataAccessLayer.csproj"
+      "path": "../DataAccessLayer/Domain.csproj",
+      "msbuildProject": "../DataAccessLayer/Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "DataAccessLayer >= 1.0.0",
+      "Domain >= 1.0.0",
       "Microsoft.AspNetCore.Authentication.JwtBearer >= 6.0.31"
     ]
   },
@@ -2389,9 +2389,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\FurnitureRenting\\FurnitureRentingAPI\\BussinessAccessLayer\\BussinessAccessLayer.csproj",
-      "projectName": "BussinessAccessLayer",
-      "projectPath": "C:\\FurnitureRenting\\FurnitureRentingAPI\\BussinessAccessLayer\\BussinessAccessLayer.csproj",
+      "projectUniqueName": "C:\\FurnitureRenting\\FurnitureRentingAPI\\BussinessAccessLayer\\Infrastructure.csproj",
+      "projectName": "Infrastructure",
+      "projectPath": "C:\\FurnitureRenting\\FurnitureRentingAPI\\BussinessAccessLayer\\Infrastructure.csproj",
       "packagesPath": "C:\\Users\\ABC\\.nuget\\packages\\",
       "outputPath": "C:\\FurnitureRenting\\FurnitureRentingAPI\\BussinessAccessLayer\\obj\\",
       "projectStyle": "PackageReference",
@@ -2410,8 +2410,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\FurnitureRenting\\FurnitureRentingAPI\\DataAccessLayer\\DataAccessLayer.csproj": {
-              "projectPath": "C:\\FurnitureRenting\\FurnitureRentingAPI\\DataAccessLayer\\DataAccessLayer.csproj"
+            "C:\\FurnitureRenting\\FurnitureRentingAPI\\DataAccessLayer\\Domain.csproj": {
+              "projectPath": "C:\\FurnitureRenting\\FurnitureRentingAPI\\DataAccessLayer\\Domain.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UkFywSYvevQC+5YQhuOvJIISit+5HQxUld33XmojNLNuEfq46f+0ntF3I1xamtc6Lh8KF+rYBdgjNd4dR4EI/g==",
+  "dgSpecHash": "xZ1gb8G9l8ottSN6FLhDAawhiJAwv0kQ8TORlLeR2iw92CwzXxQzWi++80AtAh2+DznWRYcsLZEy+VDqBoHu8w==",
   "success": true,
-  "projectFilePath": "C:\\FurnitureRenting\\FurnitureRentingAPI\\DataAccessLayer\\DataAccessLayer.csproj",
+  "projectFilePath": "C:\\FurnitureRenting\\FurnitureRentingAPI\\DataAccessLayer\\Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ABC\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\ABC\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

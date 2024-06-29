@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\FurnitureRenting\\FurnitureRentingAPI\\BussinessAccessLayer\\BussinessAccessLayer.csproj": {}
+    "C:\\FurnitureRenting\\FurnitureRentingAPI\\BussinessAccessLayer\\Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\FurnitureRenting\\FurnitureRentingAPI\\BussinessAccessLayer\\BussinessAccessLayer.csproj": {
+    "C:\\FurnitureRenting\\FurnitureRentingAPI\\BussinessAccessLayer\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\FurnitureRenting\\FurnitureRentingAPI\\BussinessAccessLayer\\BussinessAccessLayer.csproj",
-        "projectName": "BussinessAccessLayer",
-        "projectPath": "C:\\FurnitureRenting\\FurnitureRentingAPI\\BussinessAccessLayer\\BussinessAccessLayer.csproj",
+        "projectUniqueName": "C:\\FurnitureRenting\\FurnitureRentingAPI\\BussinessAccessLayer\\Infrastructure.csproj",
+        "projectName": "Infrastructure",
+        "projectPath": "C:\\FurnitureRenting\\FurnitureRentingAPI\\BussinessAccessLayer\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\ABC\\.nuget\\packages\\",
         "outputPath": "C:\\FurnitureRenting\\FurnitureRentingAPI\\BussinessAccessLayer\\obj\\",
         "projectStyle": "PackageReference",

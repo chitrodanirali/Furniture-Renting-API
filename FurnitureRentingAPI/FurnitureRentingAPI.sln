@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FurnitureRentingAPI", "FurnitureRentingAPI\FurnitureRentingAPI.csproj", "{FC495B02-7549-4912-A983-27CC809A8D87}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FurnitureRentingAPI", "FurnitureRentingAPI\FurnitureRentingAPI.csproj", "{FC495B02-7549-4912-A983-27CC809A8D87}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayer", "DataAccessLayer\DataAccessLayer.csproj", "{F43ADA30-9EDE-4398-B675-C064C4B3CF7F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Domain", "DataAccessLayer\Domain.csproj", "{F43ADA30-9EDE-4398-B675-C064C4B3CF7F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BussinessAccessLayer", "BussinessAccessLayer\BussinessAccessLayer.csproj", "{5EE8D394-DD23-42FD-A32F-59C46A057B1E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infrastructure", "BussinessAccessLayer\Infrastructure.csproj", "{5EE8D394-DD23-42FD-A32F-59C46A057B1E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

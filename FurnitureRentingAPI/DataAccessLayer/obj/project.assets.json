@@ -2472,9 +2472,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\FurnitureRenting\\FurnitureRentingAPI\\DataAccessLayer\\DataAccessLayer.csproj",
-      "projectName": "DataAccessLayer",
-      "projectPath": "C:\\FurnitureRenting\\FurnitureRentingAPI\\DataAccessLayer\\DataAccessLayer.csproj",
+      "projectUniqueName": "C:\\FurnitureRenting\\FurnitureRentingAPI\\DataAccessLayer\\Domain.csproj",
+      "projectName": "Domain",
+      "projectPath": "C:\\FurnitureRenting\\FurnitureRentingAPI\\DataAccessLayer\\Domain.csproj",
       "packagesPath": "C:\\Users\\ABC\\.nuget\\packages\\",
       "outputPath": "C:\\FurnitureRenting\\FurnitureRentingAPI\\DataAccessLayer\\obj\\",
       "projectStyle": "PackageReference",
