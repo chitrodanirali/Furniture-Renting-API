@@ -87,3 +87,6 @@
 /FurnitureRentingAPI/FurnitureRentingAPI/obj/Debug/net6.0/ref/FurnitureRentingAPI.dll
 /FurnitureRentingAPI/FurnitureRentingAPI/obj/Debug/net6.0/refint/FurnitureRentingAPI.dll
 *.user
+/FurnitureRentingAPI/.vs/FurnitureRentingAPI/FileContentIndex
+/FurnitureRentingAPI/BussinessAccessLayer/bin/Debug/net6.0/Infrastructure.deps.json
+/FurnitureRentingAPI/BussinessAccessLayer/obj/Debug/net6.0/Infrastructure.genruntimeconfig.cache
