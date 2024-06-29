@@ -8,7 +8,6 @@ namespace Domain.Data
              : base(options)
         {
         }
-
         protected ApplicationContext()
         { }
 
