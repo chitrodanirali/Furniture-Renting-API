@@ -1,0 +1,14 @@
+C:\FurnitureRenting\FurnitureRentingAPI\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.deps.json
+C:\FurnitureRenting\FurnitureRentingAPI\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.runtimeconfig.json
+C:\FurnitureRenting\FurnitureRentingAPI\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+C:\FurnitureRenting\FurnitureRentingAPI\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\FurnitureRenting\FurnitureRentingAPI\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\FurnitureRenting\FurnitureRentingAPI\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\FurnitureRenting\FurnitureRentingAPI\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\FurnitureRenting\FurnitureRentingAPI\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+C:\FurnitureRenting\FurnitureRentingAPI\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\FurnitureRenting\FurnitureRentingAPI\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.dll
+C:\FurnitureRenting\FurnitureRentingAPI\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
+C:\FurnitureRenting\FurnitureRentingAPI\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
+C:\FurnitureRenting\FurnitureRentingAPI\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.genruntimeconfig.cache
+C:\FurnitureRenting\FurnitureRentingAPI\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll

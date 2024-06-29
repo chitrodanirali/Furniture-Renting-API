@@ -1,0 +1,15 @@
+C:\FurnitureRenting\FurnitureRentingAPI\BussinessAccessLayer\bin\Debug\net6.0\BussinessAccessLayer.deps.json
+C:\FurnitureRenting\FurnitureRentingAPI\BussinessAccessLayer\bin\Debug\net6.0\BussinessAccessLayer.dll
+C:\FurnitureRenting\FurnitureRentingAPI\BussinessAccessLayer\bin\Debug\net6.0\BussinessAccessLayer.pdb
+C:\FurnitureRenting\FurnitureRentingAPI\BussinessAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+C:\FurnitureRenting\FurnitureRentingAPI\BussinessAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\FurnitureRenting\FurnitureRentingAPI\BussinessAccessLayer\obj\Debug\net6.0\BussinessAccessLayer.csproj.AssemblyReference.cache
+C:\FurnitureRenting\FurnitureRentingAPI\BussinessAccessLayer\obj\Debug\net6.0\BussinessAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\FurnitureRenting\FurnitureRentingAPI\BussinessAccessLayer\obj\Debug\net6.0\BussinessAccessLayer.AssemblyInfoInputs.cache
+C:\FurnitureRenting\FurnitureRentingAPI\BussinessAccessLayer\obj\Debug\net6.0\BussinessAccessLayer.AssemblyInfo.cs
+C:\FurnitureRenting\FurnitureRentingAPI\BussinessAccessLayer\obj\Debug\net6.0\BussinessAccessLayer.csproj.CoreCompileInputs.cache
+C:\FurnitureRenting\FurnitureRentingAPI\BussinessAccessLayer\obj\Debug\net6.0\BussinessAccessLayer.csproj.CopyComplete
+C:\FurnitureRenting\FurnitureRentingAPI\BussinessAccessLayer\obj\Debug\net6.0\BussinessAccessLayer.dll
+C:\FurnitureRenting\FurnitureRentingAPI\BussinessAccessLayer\obj\Debug\net6.0\refint\BussinessAccessLayer.dll
+C:\FurnitureRenting\FurnitureRentingAPI\BussinessAccessLayer\obj\Debug\net6.0\BussinessAccessLayer.pdb
+C:\FurnitureRenting\FurnitureRentingAPI\BussinessAccessLayer\obj\Debug\net6.0\ref\BussinessAccessLayer.dll
